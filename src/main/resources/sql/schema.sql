@@ -1,0 +1,1 @@
+create table product(productId bigint primary key,name varchar,description varchar,category varchar,price float);
